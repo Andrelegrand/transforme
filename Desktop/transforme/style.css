@@ -1,0 +1,55 @@
+*
+{
+    font-family: poppins;
+}
+h1
+{
+    text-align: center;
+    
+}
+section
+{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.enfant1
+{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 150px;
+    margin-left: 30px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 70px;
+   
+}
+.enfant2
+{
+    background-color:whitesmoke;
+    width: 30%;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 70px;
+    height: 150px;
+}
+   
+.enfant3
+{
+    background-color: whitesmoke;
+    width: 30%;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 70px;
+    height: 150px;
+}
+span
+{
+    font-weight: bolder;
+    font-size: 24px;
+}
+p
+{
+    text-align: center;
+}
+
